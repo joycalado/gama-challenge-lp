@@ -1,2 +1,2 @@
-# gama-challenge-lp
+# outside.github.io
 Landing page - Black Friday
