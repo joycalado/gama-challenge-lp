@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.section-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background-section-one{
+    background-image: url(./Papel\ de\ Parede\ Floral\ de\ Primavera\ com\ Flores\ de\ Pessegueira.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.background-section-two{
+    background-image: url(./faixas.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer{
+    margin: 15px;
+    padding: 25px;
+    height: 100px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+.card-container{
+    background-color: #ffeedb;
+    border-radius: 25px;
+    padding: 25px ;
+    width: 450px;
+    
+}
+
+input [type=Nome], input[type=E-mail]{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 12px;
+    
+}
+
+form{
+    display: grid;
+   
+}
