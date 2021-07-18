@@ -16,9 +16,9 @@ localStorage.setItem('lead', convertData);
 
 let content = document.getElementById("content");
 
-/*
+
 let carregando = "<p>"carregando.."</p>" 
 
-content.innerHTML = carregando */
+content.innerHTML = carregando 
 
 })
